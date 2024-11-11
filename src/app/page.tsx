@@ -77,7 +77,7 @@ import Image from "next/image";
             <h2 className="text-[22px] font-bold py-[15px]   hover:text-[#C3A275]">TUSPINS</h2>
           </div>
           <div className="basis-[30%] m-[1.5%] shadow-lg py-[20px] text-center group hover:translate-y-[17px]  duration-[2s]">
-            <Image src="/goldpin.webp" alt="pic" width={400} height={400}
+            <Image src="/bruch.jpg" alt="pic" width={400} height={400}
             className=" w-[45] h-[40] mx-auto group-hover:scale-100"/>
             <h2 className="text-[22px] font-bold py-[15px]    hover:text-[#C3A275]">SPHERICAL-COIL PINS</h2>
           </div>
